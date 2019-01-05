@@ -1,0 +1,16 @@
+Vorratslager x2
+Kornspeicher x1
+Waffenkammer x1
+Marktplatz x1
+Unterkünfte x1
+Tunnelbauergilde x1
+Baumeistergilde x1
+Pechkessel x1
+Hütte x10
+Pfeilmacherei x2
+Schmiede x2
+Pikenmacherei x1
+Rüstungsschmiede x2
+Kirche x1
+Kapelle x2
+Gärten und andere Freuden x10
